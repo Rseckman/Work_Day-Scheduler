@@ -14,4 +14,4 @@ I made all of this functionable through the use of Javascript (and jQuery), to c
 
 This was a fun challenge, as it was my first assignment basing functions and actions off of time.  
 
-Here is a link to the page: 
+Here is a link to the page: https://rseckman.github.io/Work_Day-Scheduler/
